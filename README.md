@@ -57,9 +57,6 @@ Apaixonado por aprendizado contínuo, utilizo a tecnologia para transformar idei
 </div>
 
 ---
-
-## 🎮 Pacman Animation
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/romariomorais01/romariomorais01/output/pacman-contribution-graph.svg" />
 </div>
