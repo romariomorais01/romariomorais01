@@ -15,7 +15,29 @@ Apaixonado por aprendizado contínuo, utilizo a tecnologia para transformar idei
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,javascript,java,php,html,mysql" />
+  <a href="https://github.com/romariomorais01/Organizador-de-tarefas-em-Python-1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+  
+  <a href="https://github.com/romariomorais01/Captura-de-Leads-simples" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+  
+  <a href="https://github.com/romariomorais01/Identificando-Gadget-em-java" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  
+  <a href="https://github.com/romariomorais01/Portf-lio-Rom-rio-Morais" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  
+  <a href="https://github.com/romariomorais01?tab=repositories" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  
+  <a href="https://github.com/romariomorais01?tab=repositories" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
 </div>
 
 <br>
