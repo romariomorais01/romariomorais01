@@ -55,3 +55,11 @@ Apaixonado por aprendizado contínuo, utilizo a tecnologia para transformar idei
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+---
+
+## 🎮 Pacman Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/romariomorais01/romariomorais01/output/pacman-contribution-graph.svg" />
+</div>
